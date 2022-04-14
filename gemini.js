@@ -1,7 +1,7 @@
 base_url = "https://api.gemini.com";
 
 var bSandbox = false;
-bSandbox = true;                                                             // TOGGLE THIS
+// bSandbox = true;                                                             // TOGGLE THIS
 
 // sandbox
 sandbox_url = "https://api.sandbox.gemini.com"
